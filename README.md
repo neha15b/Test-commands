@@ -1,2 +1,2 @@
 # Test-commands
-Test demo
+Test demo for git commands
